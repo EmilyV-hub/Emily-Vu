@@ -1,0 +1,101 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://EmilyV-hub.github.io/Emily-Vu/annotations/meshes-of-the-afternoon-canvas-1-mis-en-scene--object--knife-.json",
+  "type": "AnnotationPage",
+  "label": "Mis En Scene: Object (Knife)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-mis-en-scene--object--knife--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "There is a horizontal panning of camera from left to right, where it is then zoomed into the knife on the table. This use of mis en scene helps introduce an object that is going to be repeated throughout the film. It also used to establish a feeling of suspense. A knife is usually associated with death. Audience may see this as being horror, mystery, or psychological thriller.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EmilyV-hub.github.io/Emily-Vu/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EmilyV-hub.github.io/Emily-Vu/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6300.0,6960.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-mis-en-scene--object--knife--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A repitition of the knife, but in a different location of the setting. Rather of it being on the table, it is on the staircase in a slanted position. This scene builds curiousity for the film. Audience currently does not know the meaning behind the object. However, it is understood now that it is an important plot detail. It also helps people wonder why the main character is not phased by the knife, but instead she casually walks past it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EmilyV-hub.github.io/Emily-Vu/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EmilyV-hub.github.io/Emily-Vu/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "16020.0,16500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-mis-en-scene--object--knife--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The knife is on the bed this time, but is hidden underneath the blanket. There is a reflection of the main character's face in the knife. This time she looks to be shaken not by the reappearance of the object, but what it seems to be looking at herself. Her face is distorted in the reflection. This detail may help readers make a connection to the \"inner self\" or subconscious. There is an internal (psychological/mental) battle within the character that causes her to be distraught in life.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EmilyV-hub.github.io/Emily-Vu/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EmilyV-hub.github.io/Emily-Vu/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "19080.0,19380.0"
+        }
+      }
+    }
+  ]
+}
